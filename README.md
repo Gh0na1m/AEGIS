@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download.png" alt="Project Logo" width="200">
+  <img src="download.png" alt="Project Logo" width="1000">
 </p>
 
 # AEGIS: Autonomous AI Defense Platform (Monitor, Detect, Defend)
