@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="download.png" alt="Project Logo" width="200">
+</p>
+
 # AEGIS: Autonomous AI Defense Platform (Monitor, Detect, Defend)
 
 > Project 27SUTDP230 · Faculty of Engineering Technology, Computer Science Technology
